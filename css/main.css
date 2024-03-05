@@ -7,10 +7,10 @@ body{
     margin: 0;
 }
 
-.flexContainer{
+/* .flexContainer{
     display: flex;
     height: 300px;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
     padding: 5em;
-}
+} */
